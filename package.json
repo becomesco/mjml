@@ -19,7 +19,7 @@
     "test:active": "mocha -r ts-node/register src/test/*.active.test.ts --recursive --exit"
   },
   "devDependencies": {
-    "@banez/npm-tool": "^1.0.1",
+    "@banez/npm-tool": "^1.0.2",
     "@types/chai": "^4.2.22",
     "@types/fs-extra": "^9.0.13",
     "@types/mjml": "^4.7.0",
